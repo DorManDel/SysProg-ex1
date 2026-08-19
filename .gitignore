@@ -1,0 +1,5 @@
+# Build output
+my_cp
+
+# Generated test output
+tests/fixtures/output.txt
